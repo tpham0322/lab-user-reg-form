@@ -1,0 +1,11 @@
+.error-message{
+    min-height:24px;
+}
+
+.valid{
+    border:2px solid #198754 !important;
+}
+
+.invalid{
+    border:2px solid #dc3545 !important;
+}
